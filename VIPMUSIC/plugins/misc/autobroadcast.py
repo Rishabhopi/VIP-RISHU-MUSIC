@@ -22,13 +22,15 @@ MESSAGES = f"""**ㅤㅤㅤ
 ┠ ◆ ɪ ᴄᴀɴ ᴍᴜᴛᴇ,ᴜɴᴍᴜᴛᴇ,ʙᴀɴ,ᴜɴʙᴀɴ,ᴋɪᴄᴋ..
 ┠ ◆ ꜱᴘᴇᴄɪᴀʟ ᴡᴇʟᴄᴏᴍᴇ 
 ┠ ◆ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ...
-┗━━━━━━━━━━━━━━━━━⧫**"""
+┗━━━━━━━━━━━━━━━━━⧫
+
+🥰𝙰𝚍𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙:- @VIP_MUSIC_VC_BOT**"""
 
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏ Click & Get ₹100 ๏", url=f"https://rajaluck777.com/#/register?invitationCode=mVkLc53416")
+            InlineKeyboardButton("๏𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ๏", url=f"https://t.me/UR_RISHU_143")
         ]
     ]
 )
@@ -46,7 +48,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/TG_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/@VIP_MUSIC_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
