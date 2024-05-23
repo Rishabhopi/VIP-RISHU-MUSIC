@@ -10,19 +10,19 @@ AUTO_GCASTS = f"{AUTO_GCAST}" if AUTO_GCAST else False
 
 START_IMG_URLS = "https://graph.org/file/0ba62eab9db28f929a196.jpg"
 
-MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
-
-🔣 सबसे ज्यादा पैसा देने वाला Platform 
-🔣 पूरी दुनिया को हिला के रख दिया 
-⭐️MISS मत करना 
-
-🔣Game  को INVITE करो और 🔔 10,000₹ से 50,000₹ रोज कमाओ 🔥
-
-☄️Register Link🔗:- https://rajaluck777.com/#/register?invitationCode=mVkLc53416
-
-24ʜʀ ᴘʀᴇᴅɪᴄᴛɪᴏɴ:- https://t.me/VIP_CREATORS/1145
-
-🌟Do register & get bonus from :-  @RajaGameClubAgents**"""
+MESSAGES = f"""**ㅤㅤㅤ
+┏━━━━━━━━━━━━━━━━━⧫
+┠ ◆ ɪ ʜᴀᴠᴇ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs.
+┠ ◆ ᴀʟʟ-ɪɴ-ᴏɴᴇ ʙᴏᴛ.
+┗━━━━━━━━━━━━━━━━━⧫
+┏━━━━━━━━━━━━━━━━━⧫
+┠ ◆ ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
+┠ ◆ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴏʀ ɪᴍᴀɢᴇs.
+┠ ◆ ʏᴏᴜ ᴄᴀɴ ᴛʀᴀɴꜱʟᴀᴛᴇ ᴍᴜʟᴛɪᴘʟᴇ ʟᴀɴɢᴜᴀɢᴇꜱ.
+┠ ◆ ɪ ᴄᴀɴ ᴍᴜᴛᴇ,ᴜɴᴍᴜᴛᴇ,ʙᴀɴ,ᴜɴʙᴀɴ,ᴋɪᴄᴋ..
+┠ ◆ ꜱᴘᴇᴄɪᴀʟ ᴡᴇʟᴄᴏᴍᴇ 
+┠ ◆ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ...
+┗━━━━━━━━━━━━━━━━━⧫**"""
 
 
 BUTTONS = InlineKeyboardMarkup(
