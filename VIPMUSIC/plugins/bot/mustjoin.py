@@ -6,7 +6,7 @@ from VIPMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "GODXNEXU"
+MUST_JOIN = "Ur_rishu_143"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
