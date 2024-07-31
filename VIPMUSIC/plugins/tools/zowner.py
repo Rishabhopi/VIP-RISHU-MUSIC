@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
     )
 
 @app.on_message(
-    filters.command("repo")
+    filters.command("re777po")
     & filters.group)
 async def help(client: Client, message: Message):
     userbot = await get_assistant(chat_id)
@@ -67,7 +67,7 @@ async def help(client: Client, message: Message):
     )
 
 @app.on_message(
-    filters.command("repo")
+    filters.command("re777po")
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
