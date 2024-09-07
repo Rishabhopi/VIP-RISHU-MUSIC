@@ -10,8 +10,8 @@ load_dotenv()
 API_ID = int(getenv("API_ID","14050586"))
 API_HASH = getenv("API_HASH","42a60d9c657b106370c79bb0a8ac560c")
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","7191737377:AAHngICVeuYFzo0uNEcKvcPbt5Ayg2aYQqc")
-STRING_SESSION = getenv("STRING_SESSION","BQGvBw8AZ8XIsHPcf1nF9yiJFbc_blhvndZTdm1hbv96tqb4FSZNv_zbNe78hCc9vrdxQ_qXTp9APz-wDz1GRaIzi98X2ok4jxV4MVFnYl4gtNk64nx5NH63kd2efQlg7Hzr8sKlKjWCi6zasyrodWJ14Kz009kP9jb6eKLuNwjETQPt7O2oWwU1BhNzVxXYHn5M7zMiSPxB4MCT1rLBwuhmjmWFdlw2a_9BODvcmFlo1PFnWm7SaI5YRJybHTfZ7zmrlk8fwZDnD8oc1m-W4ukLKjLB8JrtGr5mY0WfjkIlExk86dz_kym8P8zcbQZ6l1HJ8cAfsmuAmeVXi4l-K1Ah_O4GhQAAAAGrc_adAA")
+BOT_TOKEN = getenv("BOT_TOKEN","7088553190:AAE3FEbnlmRmkFK6XMfyknV52NUA7TMvAHU")
+STRING_SESSION = getenv("STRING_SESSION","BQGvBw8AhqlPWZrykQIDP_gLDTdra04mqvE0C6jl41awI5lThyULKZqFsXGAPnEH57_epmjGu0M3BoKM-avUMawLyqE2C9kSNJ_sMrLP9z-SZ7_9XiZeyc5bQlQLuhpuqVDJgaYkI76qI3nRMdOIfz9MO0hXKATR8OUdOuui40s0bO2-sgyj8V1Kgpjxu6KTGgvnJBpXgYfXiRBBUC3uoUyhhYREx55rGFC5UtglScHS5E0V9CUTN2n7rhB6wXPCq3SY5gMp8iMs94bKycsrT3i7Kwtzyr3c78dqf2zO2ao3pw5QM-G08UocMNa7FvgcYmAFRtYfjdZpFD1_CNrTJ2OyYxiLIwAAAAGRcipgAA")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
