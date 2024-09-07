@@ -10,8 +10,8 @@ load_dotenv()
 API_ID = int(getenv("API_ID","14050586"))
 API_HASH = getenv("API_HASH","42a60d9c657b106370c79bb0a8ac560c")
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","7088553190:AAE3FEbnlmRmkFK6XMfyknV52NUA7TMvAHU")
-STRING_SESSION = getenv("STRING_SESSION","BQGvBw8AhqlPWZrykQIDP_gLDTdra04mqvE0C6jl41awI5lThyULKZqFsXGAPnEH57_epmjGu0M3BoKM-avUMawLyqE2C9kSNJ_sMrLP9z-SZ7_9XiZeyc5bQlQLuhpuqVDJgaYkI76qI3nRMdOIfz9MO0hXKATR8OUdOuui40s0bO2-sgyj8V1Kgpjxu6KTGgvnJBpXgYfXiRBBUC3uoUyhhYREx55rGFC5UtglScHS5E0V9CUTN2n7rhB6wXPCq3SY5gMp8iMs94bKycsrT3i7Kwtzyr3c78dqf2zO2ao3pw5QM-G08UocMNa7FvgcYmAFRtYfjdZpFD1_CNrTJ2OyYxiLIwAAAAGRcipgAA")
+BOT_TOKEN = getenv("BOT_TOKEN","jjjhg")
+STRING_SESSION = getenv("STRING_SESSION","hggggggiuyyhh")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
